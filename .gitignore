@@ -1,0 +1,10 @@
+.env
+venv/
+.env
+venv_py311/
+data/
+exported_data/
+yamls/
+chroma/
+__pycache__/
+my_chroma_db/

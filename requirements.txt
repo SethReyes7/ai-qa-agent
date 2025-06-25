@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+httpx
+openai
+python-dotenv
+requests
+numpy==1.26.4
+torch==2.2.2
+torchvision==0.17.2
+transformers==4.37.2
+sentence-transformers==2.7.0
+chromadb==0.4.24
+pdfminer.six
+pytesseract
+Pillow
